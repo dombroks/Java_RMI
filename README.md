@@ -10,4 +10,8 @@ Lets say that the client reads the number 5 as N, it sends 0 then 1, then 2...5,
 ## Deployment
 In my case, I have a Ubuntu Linux distribution as an OS, also, I have created two windows 10 virtual machines. these 3 machines connect over a my home LAN network, each one has it's IP address.
 
-
+## How to run the project?
+You open a terminal in each machine, for machine 1 and machine 2 you run the server 1 and the server 2
+      java Server1
+      java Server2
+      
