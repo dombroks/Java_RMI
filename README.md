@@ -29,4 +29,4 @@ in order to get the ip address of a specific server, you just need to open a ter
       ifconfig
 or "ipconfig" in case you are using windows
 
-## Any contribution is welcomed
+
